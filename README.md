@@ -39,3 +39,6 @@ Before you begin, ensure you have the following prerequisites installed:
       npm start
 
 Navigate to http://localhost:3000 to verify if your application is running correctly.
+
+## Acknowledgements
+You can explore this project along with others at [moabukar/tech-vault](https://github.com/moabukar/tech-vault).
